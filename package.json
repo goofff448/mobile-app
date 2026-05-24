@@ -1,0 +1,26 @@
+{
+  "name": "schrodinger-protocol",
+  "version": "1.0.0",
+  "description": "A gamified radiobiology simulation mobile app combining quantum mechanics and radiation physics",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "author": "goofff448",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goofff448/mobile-app"
+  },
+  "keywords": [
+    "radiobiology",
+    "quantum-mechanics",
+    "radiation",
+    "mobile-app",
+    "expo",
+    "react-native",
+    "education",
+    "physics"
+  ]
+}
